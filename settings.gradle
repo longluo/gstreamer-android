@@ -1,2 +1,5 @@
 include ':tutorial-1'
+<<<<<<< HEAD
 include ':tutorial-2'
+=======
+>>>>>>> 316dfa2af45e56e9f7139305691a0fe982336fad

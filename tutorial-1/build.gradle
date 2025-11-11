@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
 }
+=======
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+>>>>>>> 316dfa2af45e56e9f7139305691a0fe982336fad
 
 android {
     compileSdk 31
